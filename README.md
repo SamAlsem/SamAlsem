@@ -6,7 +6,7 @@
 
 ## About me
 Hi I'm Sam, I have recently completed the Software Engineering bootcamp through Hyperion Dev and am continuing to grow my tech skills in my spare time. Currently working through a Udemy full stack course to expand on my knowledge of Javascript, Express, Node, Mongo, authentication and deployment. 
-Looking to become a web developer. 
+Looking to become a web developer or software engineer. 
 
 <details open>
 <summary> Here is a selection of what I am familiar with so far </summary>
